@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# Ignore local datasets
+data/
+
+# Ignore Jupyter automatic checkpoints
+.ipynb_checkpoints/
